@@ -1,0 +1,3 @@
+C:\Users\Dell\source\repos\Encryptox\Encryptox\x64\Debug\Encryptox.vcxproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Encryptox\Encryptox\x64\Debug\Encryptox.MyForm.resources
+C:\Users\Dell\source\repos\Encryptox\Encryptox\x64\Debug\Encryptox.vcxproj.GenerateResource.cache
